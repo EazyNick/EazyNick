@@ -13,6 +13,7 @@
 5. Web Front and Backend Junior .<br>
 6. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot .<br>
 ps. Image creation, video editing, and production are possible .<br>
+--------------------------------------------------------------------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate on ...<br>
   Development of games using Unreal Engine
