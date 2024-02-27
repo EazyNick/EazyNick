@@ -6,6 +6,7 @@
   Unreal Engine, Next.js <br>
   <br>
 # My skill
+-----------------------------------------------------------------------------------------------------------------------------------
 1. Python technology related to automation .<br>
 2. C++ TCP Server, BOOST, MySQL, MONGODB .<br>
 3. Android Studion with Kotlin .<br>
