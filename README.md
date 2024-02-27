@@ -3,7 +3,15 @@
 - 🔭 I’m currently working on ...<br>
   in the QA department as Python.
 - 🌱 I’m currently learning ...<br>
-  Unreal Engine, Next.js
+  Unreal Engine, Next.js .<br>
+- My skill <br>
+1. Python technology related to automation .<br>
+2. C++ TCP Server, BOOST, MySQL, MONGODB .<br>
+3. Android Studion with Kotlin .<br>
+4. Unity and Unreal Engine Junior .<br>
+5. Web Front and Backend Junior .<br>
+6. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot .<br>
+ps. Image creation, video editing, and production are possible .<br>
 - 👯 I’m looking to collaborate on ...<br>
   Development of games using Unreal Engine
 - 🤔 I’m looking for help with ...<br>
