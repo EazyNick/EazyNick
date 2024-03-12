@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...<br>
   - Automated stock trading Program using transformer and reinforcement learning (24/03 ~)<br>
   - Android QA Tool (24/02 ~)<br>
-  - PYQT UI for using Automation (24/01 ~ Toy PJ)<br>
+  - PYQT UI for using Automation (24/01 ~ Toy Project)<br>
   <br>
 # My skill
 -----------------------------------------------------------------------------------------------------------------------------------
