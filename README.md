@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...<br>
   - in the QA department as Python.
 - 🌱 I’m currently learning ...<br>
-  - Unreal Engine, Next.js <br>
+  - Automated stock trading Program using transformer and reinforcement learning (24/03)<br>
   <br>
 # My skill
 -----------------------------------------------------------------------------------------------------------------------------------
