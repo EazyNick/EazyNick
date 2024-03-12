@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...<br>
   - in the QA department as Python.
-- 🌱 I’m currently learning ...<br>
+- 🌱 I’m currently learning(Project) ...<br>
   - Automated stock trading Program using transformer and reinforcement learning (24/03 ~)<br>
   - Android QA Tool (24/02 ~)<br>
   - PYQT UI for using Automation (24/01 ~ Toy Project)<br>
