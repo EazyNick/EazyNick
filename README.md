@@ -6,6 +6,7 @@
   - Automated stock trading Program using transformer and reinforcement learning (24/03 ~) in Python<br>
   - Android QA Tool (24/02 ~) in C++ <br>
   - PYQT UI for using Automation (24/01 ~ Toy Project)<br>
+  - Unreal Engine5 Project (23/11 ~ 24/03) <br>
   <br>
 # My skill
 -----------------------------------------------------------------------------------------------------------------------------------
