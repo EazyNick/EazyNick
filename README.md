@@ -15,7 +15,8 @@
 3. Android Studion with Kotlin <br>
 4. Unity and Unreal Engine Junior <br>
 5. Web Front and Backend Junior <br>
-6. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
+6. Build Cloud Server with AWS <br>
+7. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
 ps. pyQT, Image creation, video editing, and production are possible <br>
 --------------------------------------------------------------------------------------------------------------------------------------
 
