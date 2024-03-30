@@ -31,4 +31,6 @@ ps. pyQT, Image creation, video editing, and production are possible <br>
   - a slave-wanted aristocrat.
 - ⚡ Fun fact: ...<br>
   - Don't even look at anyone who says "Full Stack" to themselves, in a good way or in a bad way
+ 
+    LEARNING ENG
 
