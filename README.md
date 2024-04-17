@@ -31,5 +31,5 @@ ps. pyQT, Image creation, video editing, and production are possible <br>
 - ⚡ Fun fact: ...<br>
   - Don't even look at anyone who says "Full Stack" to themselves, in a good way or in a bad way
 - My Blog <br>
-  https://kimsungjun9987.tistory.com/ <br>
+  - https://kimsungjun9987.tistory.com/ <br>
 
