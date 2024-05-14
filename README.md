@@ -15,7 +15,8 @@
 4. Unity and Unreal Engine Junior <br>
 5. Web Front and Backend Junior <br>
 6. Building Cloud Server with AWS <br>
-7. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
+7. Configuring an HTTPS server <br>
+8. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
 ps. pyQT, Image creation, video editing, and production are possible <br>
 --------------------------------------------------------------------------------------------------------------------------------------
 
