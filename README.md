@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...<br>
-  - in the QA department as Python.
+  - in the QA department as Python
 - 🌱 I’m currently learning(Project) ...<br>
   - Automated stock trading Program using transformer and reinforcement learning (24/03 ~) in Python<br>
   - Android QA Tool (24/02 ~) in C++ <br>
