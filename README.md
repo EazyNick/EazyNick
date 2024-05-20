@@ -17,7 +17,7 @@
 6. Building Cloud Server with AWS <br>
 7. Configuring an HTTPS server <br>
 8. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
-ps. pyQT, Image creation, video editing, and production are possible <br>
+ps. pyQT, Image Creation,Vvideo Editing, and Production are Possible <br>
 --------------------------------------------------------------------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate on ...<br>
