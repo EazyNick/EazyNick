@@ -20,7 +20,7 @@
 ps. pyQT, Image Creation,Vvideo Editing, and Production are Possible <br>
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- 👯 I’m looking to collaborate on ...<br>
+- 👯 I’m looking to collaborate on <br>
   - Development of games using Unreal Engine
 - 🤔 I’m looking for help with ...<br>
   - Please look at the my repository and contact me if there is any project you want to create together.
