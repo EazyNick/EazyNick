@@ -14,7 +14,7 @@
 3. Android Studion with Kotlin, Flutter <br>
 4. Unity and Unreal Engine Junior <br>
 5. Web Front and Backend Junior <br>
-6. Building Cloud Server with AWS <br>
+6. Build Cloud Server with AWS <br>
 7. Configuring an HTTPS server <br>
 8. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
 ps. pyQT, Image Creation,Vvideo Editing, and Production are Possible <br>
