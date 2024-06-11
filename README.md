@@ -11,7 +11,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 1. Python Tool technology related to automation(Front) <br>
 2. C++ TCP Server, BOOST, MySQL, MONGODB <br>
-3. Android Studion with Kotlin <br>
+3. Android Studion with Kotlin, Flutter <br>
 4. Unity and Unreal Engine Junior <br>
 5. Web Front and Backend Junior <br>
 6. Building Cloud Server with AWS <br>
