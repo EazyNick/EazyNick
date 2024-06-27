@@ -30,7 +30,7 @@ ps. pyQT, Image Creation,Vvideo Editing, and Production are Possible <br>
 - 😄 Pronouns: ...<br>
   - a slave-wanted aristocrat.
 - ⚡ Fun fact: ...<br>
-  - Don't even look at anyone who says "Full Stack" to themselves, in a good way or in a bad way
+  - Don't even look at anyone who says "Full Stack" to themselves, in a good way or in a bad way.
 - My Blog (Welcome)<br>
   - https://kimsungjun9987.tistory.com/ <br>
 
