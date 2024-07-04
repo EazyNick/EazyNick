@@ -1,5 +1,4 @@
 ### Hi there 👋
-.
 - 🔭 I’m currently working on <br>
   - in the QA department as Python
 - 🌱 I’m currently learning(Project) <br>
