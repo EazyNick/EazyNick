@@ -15,7 +15,8 @@
 5. Web Front and Backend Full Junior Developer <br>
 6. Build Cloud Server with AWS <br>
 7. Configuring an HTTPS server <br>
-8. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
+8. AI Machine Learning Junior <br>
+9. USING AI Tool, ex)Chat GPT(LLM), GIT Copilot <br>
 ps. pyQT, Image Creation,Vvideo Editing, and Production are Possible <br>
 --------------------------------------------------------------------------------------------------------------------------------------
 
