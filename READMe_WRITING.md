@@ -24,6 +24,10 @@
   <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (개인프로젝트) 스마트폰 QA Tool 제작중 24.03 ~ <br>
 </p>
 
+<br>
+<br>
+<br>
+
 <img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
   
 ## Technologies :fire🔥🔥:
