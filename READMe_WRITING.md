@@ -29,11 +29,48 @@
   
 ## Technologies :fire🔥🔥:
 <img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
-- Data Analysis with **Python**.
-- Data Science.
-- Python.
-- Machine Learning
+
+
+**Python**:
+- PyQt
+- OpenCV
+- OCR
+- Data Processing
+- Web Scraping
 - Deep Learning
+- Reinforcement Learning
+- Django HTTPS web server deployed on AWS EC2 (Docker-compose, Nginx, Gunicorn)
+
+**C#**:
+- Unity
+
+**C++**:
+- Unreal Engine 5
+- TCP Server for Unreal Engine (using Boost library)
+- OCR
+- OpenCV
+- MFC (UI)
+
+**Java**:
+- Frontend App Development
+
+**Kotlin**:
+- Frontend App Development
+
+**Dart**:
+- Flutter
+
+**Databases**:
+- MySQL
+- Redis
+- MongoDB
+- DynamoDB
+
+**Others**:
+- HTML
+- CSS
+- JavaScript
+
 
 
 ## Talking about personal stuff ::
