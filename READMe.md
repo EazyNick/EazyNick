@@ -1,13 +1,13 @@
 # <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :smiley😇:
 
 <a href="https://www.linkedin.com/in/sung-jun-kim-962956304">
-  <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://img.icons8.com/?size=48&id=13930&format=png" />
 </a>
 <a href="https://github.com/EazyNick">
-  <img align="left" alt="EazyNick's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="EazyNick's Github" width="22px" src="https://img.icons8.com/?size=50&id=12599&format=png" />
 </a>
 <a href="https://kimsungjun9987.tistory.com/">
-  <img align="left" alt="EazyNick's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
+  <img align="left" alt="EazyNick's Blog" width="22px" src="https://img.icons8.com/?size=48&id=18911&format=png" />
 </a>
 
 <br>
