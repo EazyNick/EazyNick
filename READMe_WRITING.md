@@ -24,13 +24,7 @@
   <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (개인프로젝트) 스마트폰 QA Tool 제작중 24.03 ~ <br>
 </p>
 
-
-## ✌ Communities ✌:
-   - Mentor at [#BuiledWithAI Hackathon](https://hackmakers-35566.web.app/)
-   - Mentor at [HAC(Hack Against Covid)](hac.codezoned.com) also on [github](https://github.com/HAC-2020)
-   - Winner at YUVA Hackathon in Bhavnagar chapter
-
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
   
 ## Technologies :fire🔥🔥:
 - Data Analysis with **Python**.
