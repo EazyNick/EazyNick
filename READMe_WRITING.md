@@ -30,46 +30,14 @@
 ## Technologies :fire🔥🔥:
 <img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
 
-
-**Python**:
-- PyQt
-- OpenCV
-- OCR
-- Data Processing
-- Web Scraping
-- Deep Learning
-- Reinforcement Learning
-- Django HTTPS web server deployed on AWS EC2 (Docker-compose, Nginx, Gunicorn)
-
-**C#**:
-- Unity
-
-**C++**:
-- Unreal Engine 5
-- TCP Server for Unreal Engine (using Boost library)
-- OCR
-- OpenCV
-- MFC (UI)
-
-**Java**:
-- Frontend App Development
-
-**Kotlin**:
-- Frontend App Development
-
-**Dart**:
-- Flutter
-
-**Databases**:
-- MySQL
-- Redis
-- MongoDB
-- DynamoDB
-
-**Others**:
-- HTML
-- CSS
-- JavaScript
+**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn) <br>
+**C#**: Unity <br>
+**C++**: Unreal Engine 5, TCP Server (Boost), OCR, OpenCV, MFC (UI) <br>
+**Java**: Frontend App Development <br>
+**Kotlin**: Frontend App Development <br>
+**Dart**: Flutter <br>
+**Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
+**Others**: HTML, CSS, JavaScript
 
 
 
