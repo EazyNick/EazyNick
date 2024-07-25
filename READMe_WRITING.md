@@ -42,12 +42,11 @@
 
 
 ## Talking about personal stuff ::
--  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
-- While Coding, Listening Music and developing useful code.⭐️
-- Just loved to Explore new Tech Stacks.💻
-- Always Willing to help (Altruistic). ✋
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+- 최신 기술에 관심이 많습니다! 😸😸
+- 읽기 좋은 코드를 좋아합니다. ⭐️
+- 창의적인 개발을 좋아합니다. 💻
+- 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
+
 
 **Languages and Tools:**  
 
