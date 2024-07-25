@@ -78,4 +78,4 @@
 
 
 
-⭐️ From [EazyNick([https://github.com/Neel2904)](https://github.com/EazyNick)
+⭐️ From [EazyNick]([https://github.com/Neel2904)(https://github.com/EazyNick)
