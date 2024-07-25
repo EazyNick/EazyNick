@@ -1,4 +1,4 @@
-# <a href="[https://www.linkedin.com/in/gorasiyaneel/](https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :smiley😇:
+# <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :smiley😇:
 
 <a href="https://twitter.com/Neel_3056">
   <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
