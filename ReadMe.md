@@ -1,30 +1,31 @@
 # <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :smiley😇:
 
-<a href="https://twitter.com/Neel_3056">
-  <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/sung-jun-kim-962956304">
+  <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://linkedin.com/in/gorasiyaneel">
-  <img align="left" alt="Neel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/EazyNick">
+  <img align="left" alt="EazyNick's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/Neel2904">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/neelg._.3056">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://kimsungjun9987.tistory.com/">
+  <img align="left" alt="EazyNick's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
 <br/>
 
+<h2 align="center">About Me</h2>
 
-
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ ||
-【P】【y】【t】【h】【o】【n】
-
-## About ::
-   B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
-
-   
+<p align="center">
+  <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
+  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 김성준입니다.<b</b></span><br>
+  <span style="color: #FF6347; font-size: 16px;">🎓 국립한국방송통신대학교 컴퓨터과학과 4학년 재학중입니다.</span><br>
+  <span style="color: #FF6347; font-size: 16px;">   다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
+  <span style="color: #FF6347; font-size: 16px;">   교내/외 활동 관련해서는 Linkedin 페이지 참고 부탁드립니다.</span><br>
+  <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI(RL), 게임, 웹, 앱에 관심을 두고, 개발하고 있습니다. </span><br>
+  <span style="color: #FF4500; font-size: 16px;">📱 Experience in Android Development with Flutter and Data Analysis</span><br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 Currently learning new technologies to implement on real-world projects</span><br>
+  <span style="color: #FFD700; font-size: 16px;">❤️ Love to contribute to open-source</span><br>
+</p>
 
 ## ✌ Communities ✌:
    - Mentor at [#BuiledWithAI Hackathon](https://hackmakers-35566.web.app/)
