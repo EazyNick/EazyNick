@@ -7,7 +7,7 @@
   <img align="left" alt="EazyNick's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://kimsungjun9987.tistory.com/">
-  <img align="left" alt="EazyNick's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="EazyNick's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
 </a>
 
 <br>
