@@ -26,11 +26,9 @@
 
 <br>
 <br>
-<br>
-
-<img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
   
 ## Technologies :fire🔥🔥:
+<img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
 - Data Analysis with **Python**.
 - Data Science.
 - Python.
