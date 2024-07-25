@@ -20,9 +20,6 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI(RL), 게임, 웹, 앱에 관심을 두고, 개발하고 있습니다.</span><br>
-  <span style="color: #FF4500; font-size: 16px;">📱 Experience in Android Development with Flutter and Data Analysis</span><br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 Currently learning new technologies to implement on real-world projects</span><br>
-  <span style="color: #FFD700; font-size: 16px;">❤️ Love to contribute to open-source</span><br>
 </p>
 
 
