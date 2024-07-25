@@ -4,7 +4,7 @@
   <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://img.icons8.com/?size=48&id=13930&format=png" />
 </a>
 <a href="https://github.com/EazyNick">
-  <img align="left" alt="EazyNick's Github" width="22px" src="https://img.icons8.com/?size=50&id=12599&format=png" />
+  <img align="left" alt="EazyNick's Github" width="22px" src="https://img.icons8.com/?size=64&id=52539&format=png" />
 </a>
 <a href="https://kimsungjun9987.tistory.com/">
   <img align="left" alt="EazyNick's Blog" width="22px" src="https://img.icons8.com/?size=48&id=18911&format=png" />
