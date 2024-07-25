@@ -9,8 +9,9 @@
 <a href="https://kimsungjun9987.tistory.com/">
   <img align="left" alt="EazyNick's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br/>
-<br/>
+
 <p align="center">
   <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
   <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 김성준입니다.<b</b></span><br>
