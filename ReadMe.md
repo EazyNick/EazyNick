@@ -14,7 +14,7 @@
 <br>
 
 <p>
-  <img src="![image](https://github.com/user-attachments/assets/347d5ec0-a7e8-4e62-99a6-b0c8c9b644d7)" align="right" height="180" />
+  <img src="https://github.com/user-attachments/assets/347d5ec0-a7e8-4e62-99a6-b0c8c9b644d7" align="right" height="180" />
   <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 김성준입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">🎓 국립한국방송통신대학교 컴퓨터과학과 4학년 재학중입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
