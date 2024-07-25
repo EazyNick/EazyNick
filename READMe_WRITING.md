@@ -14,7 +14,7 @@
 <br>
 
 <p>
-  <img src="https://github.com/EazyNick/EazyNick/blob/main/1.gif?raw=true" align="right" height="500" />
+  <img src="https://github.com/EazyNick/EazyNick/blob/main/1.gif?raw=true" align="right" height="200" />
   <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 김성준입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">🎓 국립한국방송통신대학교 컴퓨터과학과 4학년 재학중입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
@@ -28,7 +28,7 @@
 <br>
   
 ## Technologies :fire🔥🔥:
-<img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="200" />
+<img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="300" />
 
 **Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn) <br>
 **C#**: Unity <br>
