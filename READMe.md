@@ -74,9 +74,15 @@
 </a>
 
 ##  Let's connect :speech_balloon:
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-ff4500?style=flat-square&logo=tistory&logoColor=white&link=https://kimsungjun9987.tistory.com/)](https://kimsungjun9987.tistory.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-SungJunKim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-jun-kim-962956304/)](https://www.linkedin.com/in/sung-jun-kim-962956304/)
-[![Email Badge](https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkkygsos@naver.com)](mailto:kkkygsos@naver.com)
+<a href="https://kimsungjun9987.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tistory-ff4500?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Badge">
+</a>
+<a href="https://www.linkedin.com/in/sung-jun-kim-962956304/" target="_blank">
+  <img src="https://img.shields.io/badge/-SungJunKim-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
+<a href="mailto:kkkygsos@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+</a>
 
 
 
