@@ -55,15 +55,20 @@
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
+<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/nginx.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
+<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
+<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
+<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
+<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
 
