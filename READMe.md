@@ -54,11 +54,19 @@
 
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://modulabs.co.kr/wp-content/uploads/2024/03/1_slHeZngyeUr7ypEz7MNL5w.png"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/nginx.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
 
 
 
