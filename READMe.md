@@ -32,7 +32,7 @@
 ## Technologies :fire🔥🔥:
 <img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="230" />
 
-**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn) <br>
+**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, LangChain, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn) <br>
 **C#**: Unity <br>
 **C++**: Unreal Engine 5, TCP Server (Boost), OCR, OpenCV, MFC (UI) <br>
 **Java**: Frontend App Development <br>
