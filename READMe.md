@@ -41,7 +41,7 @@
 **Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
 **Others**: HTML, CSS, JavaScript <br>
 **프로젝트 관리**: JIRA, Git <br>
-**디자인 및 프로토타이핑**: Figma
+**디자인 및 프로토타이핑**: Figma, Canva
 
 
 
