@@ -23,7 +23,7 @@
   <span style="color: #1E90FF; font-size: 16px;">📚 한이음 ICT 공모전 '강화학습을 이용한 AI 트레이딩 시스템 구현' 진행중 24.04 ~ <br>
   <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (개인프로젝트) 스마트폰 QA Tool 제작중 24.03 ~ <br>
   <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한국투자증권 라이브러리 제작중 24.06 ~ <br>
-  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chat gpt API 메뉴얼 작성중 24.08 ~ <br>
+  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chat gpt API 메뉴얼 작성중 24.08 ~ 24.10 <br>
 </p>
 
 <br>
