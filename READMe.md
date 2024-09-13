@@ -15,7 +15,7 @@
 
 <p>
   <img src="https://github.com/EazyNick/EazyNick/blob/main/1.gif?raw=true" align="right" height="210" />
-  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 개발 QA 재직중인 김성준 연구원입니다.</span><br>
+  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 개발 QA 재직중인 김성준 연구원입니다..</span><br>
   <span style="color: #FF6347; font-size: 16px;">🎓 국립한국방송통신대학교 컴퓨터과학과 4학년 재학중입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중) 페이지 참고 부탁드립니다.</span><br>
