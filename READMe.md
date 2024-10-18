@@ -21,9 +21,9 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중) 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 QA Tool, AI(RL), 게임, 웹, 앱 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 한이음 ICT 공모전 '강화학습을 이용한 AI 트레이딩 시스템 구현' 진행중 24.03 ~ 24.10 <br>
-  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (개인프로젝트) 스마트폰 QA Tool 제작중 24.03 ~ (보류) <br>
-  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한국투자증권 라이브러리 제작중 24.06 ~ <br>
-  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chat gpt API 메뉴얼 작성중 24.08 ~ <br>
+  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (개인프로젝트) 스마트폰 QA Tool 제작중 24.08 ~ <br>
+  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한국투자증권 라이브러리 제작중 24.06 ~ 24.12<br>
+  <span style="color: #1E90FF; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chat gpt API 메뉴얼 작성중 24.08 ~ 24.12<br>
 </p>
 
 <br>
