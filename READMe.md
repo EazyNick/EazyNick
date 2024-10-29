@@ -1,4 +1,5 @@
-# <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :자동화 매크로😇:
+
+# <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> :QA - 자동화 매크로😇:
 
 <a href="https://www.linkedin.com/in/sung-jun-kim-962956304">
   <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://img.icons8.com/?size=48&id=13930&format=png" />
@@ -30,7 +31,7 @@
 ## Technologies :fire🔥🔥:
 <img src="https://github.com/EazyNick/EazyNick/blob/main/2.gif?raw=true" align="right" height="230" />
 
-**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, LangChain, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn) <br>
+**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, LangChain, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn), FASTAPI <br>
 **C#**: Unity <br>
 **C++**: Unreal Engine 5, TCP Server (Boost), OCR, OpenCV, MFC (UI) <br>
 **Java**: Frontend App Development <br>
