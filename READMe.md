@@ -10,6 +10,7 @@
 <a href="https://kimsungjun9987.tistory.com/">
   <img align="left" alt="EazyNick's Blog" width="22px" src="https://img.icons8.com/?size=48&id=18911&format=png" />
 </a>
+  <span style="color: #1E90FF; font-size: 16px;">📚 한이음 ICT 공모전 '강화학습을 이용한 AI 트레이딩 시스템 구현' 진행중 24.03 ~ 24.11 <br>
 
 <br>
 <br>
