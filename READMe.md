@@ -20,7 +20,7 @@
   <span style="color: #FF6347; font-size: 16px;">🎓 국립한국방송통신대학교 컴퓨터과학과 4학년 재학중입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중...) 페이지 참고 부탁드립니다.</span><br>
-  <span style="color: #32CD32; font-size: 16px;">💻 자동화 QA Tool, AI(RL), 서버 개발에 관심이 있습니다.</span><br>
+  <span style="color: #32CD32; font-size: 16px;">💻 자동화 QA Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
 </p>
 
 <br>
