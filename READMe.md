@@ -97,6 +97,17 @@
   <img src="https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
 </a>
 
+## 🛠️ Projects
+
+| Project   | Summary                                           | Role      | Stack                          | Period                |
+|-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
+| 2024 한이음 ICT | 강화학습(RL)기반 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024. 05 ~ 2024. 10 |
+| -      | -                     | -  | -     | - |
+| -    |    -   | -  | -      | - |
+| -      | - | -  |   -     | - |
+| -        |     -        |  |    -          | - |
+
+
 
 
 ⭐️ From [EazyNick]([https://github.com/Neel2904)(https://github.com/EazyNick)
