@@ -152,8 +152,8 @@
 | 총장배소프트웨어대회 은상 | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.10 |
 | 한국투자증권 REST API | 한국투자증권 REST API 사용서  | API Engineer  | Python | 2024.04 ~ 2024.05 |
 | BlockCoding_UI | 블록코딩 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
-| -      | - | -  |   -     | - |
-| -        |     -        |  |    -          | - |
+| 언리얼기반 c++ 서버 구축 | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11 ~ 2024.01 |
+| Tstory-API | Tsotry 블로그 글, 댓글 작성 자동화| Full-Stack | Python | 2023.10 |
 
 
 
