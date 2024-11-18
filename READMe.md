@@ -101,7 +101,60 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| 2024 한이음 ICT | 강화학습(RL)기반 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024. 05 ~ 2024. 10 |
+| 총장배소프트웨어대회 은상 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
+
+
+**Languages and Tools:**  
+
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/nginx.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
+
+
+
+<a href="https://github.com/EazyNick">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl,python" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/EazyNick">
+  <img src="https://github-readme-stats.vercel.app/api?username=EazyNick&show_icons=true&theme=radical" />
+</a>
+
+##  Let's connect :speech_balloon:
+<a href="https://kimsungjun9987.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tistory-ff4500?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Badge">
+</a>
+<a href="https://www.linkedin.com/in/sung-jun-kim-962956304/" target="_blank">
+  <img src="https://img.shields.io/badge/-SungJunKim-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
+<a href="mailto:kkkygsos@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+</a>
+
+## 🛠️ Projects
+
+| Project   | Summary                                           | Role      | Stack                          | Period                |
+|-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
+| 총장배소프트웨어경진대회 은상 | 강화학습(RL)기반 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024. 05 ~ 2024. 10 |
 | -      | -                     | -  | -     | - |
 | -    |    -   | -  | -      | - |
 | -      | - | -  |   -     | - |
