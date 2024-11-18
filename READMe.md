@@ -97,10 +97,6 @@
   <img src="https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
 </a>
 
-## 🛠️ Projects
-관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
-
-
 **Languages and Tools:**  
 
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
@@ -148,6 +144,8 @@
 </a>
 
 ## 🛠️ Projects
+관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
+
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
