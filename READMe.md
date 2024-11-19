@@ -143,7 +143,7 @@
   <img src="https://img.shields.io/badge/-kkkygsos@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
 </a>
 
-## 🛠️ Projects(최근 5개의의 프로젝트)
+## 🛠️ Projects(최근 5개의 프로젝트)
 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
 
 
