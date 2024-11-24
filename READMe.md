@@ -22,6 +22,7 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중...) 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 QA Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 모든 프로젝트를 끝내고, 기말공부중입니다.. (24.11 ~ 24.12) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 승리의 여신:니케 국내 자동화 라이브러리 제작 예정 (24.12 ~) <br>
 </p>
 
 <br>
