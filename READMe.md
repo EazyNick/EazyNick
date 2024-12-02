@@ -83,7 +83,7 @@
 </a>
 
 ## 🛠️ Projects(최근 5개의 프로젝트)
-관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
+✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
 <br>
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
