@@ -61,6 +61,7 @@
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/azure.png?raw=true"></code>
 <br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
