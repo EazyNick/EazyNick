@@ -21,7 +21,7 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중...) 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 QA Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 모든 프로젝트를 끝내고, 시험 공부중입니다.. (24.11 ~ 24.12) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 모든 프로젝트를 끝내고, 시험 공부중입니다.. (24.12) <br>
 </p>
 
 <br>
@@ -89,7 +89,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.10 |
+| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API Engineer  | Python | 2024.04 ~ 2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
 | [언리얼기반 C++ 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11 ~ 2024.01 |
