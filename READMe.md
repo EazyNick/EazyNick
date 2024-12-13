@@ -75,7 +75,7 @@
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
 <br>
 <a href="https://github.com/EazyNick">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl" />
 </a>
 <br>
 <br>
