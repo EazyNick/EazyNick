@@ -93,7 +93,7 @@
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04 ~ 2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
 | [언리얼기반 C++ 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11 ~ 2024.01 |
-| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.10 |
+| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.10 |
 
 
 
