@@ -89,7 +89,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의 | - | Python | 2024.12 ~ 2025.01 |
+| [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 ~ 2025.01 |
 | [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04 ~ 2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
