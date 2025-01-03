@@ -89,59 +89,6 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [승리의 여신:니케 자동화 프로그램*Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
-**Others**: HTML, CSS, JavaScript <br>
-**프로젝트 관리**: JIRA, Git <br>
-**디자인 및 프로토타이핑**: Figma, Canva
-
-
-
-
-## Talking about personal stuff ::
-- 최신 기술에 관심이 매우 많습니다! 😸😸
-- 읽기 좋은 코드를 좋아합니다. ⭐️
-- 창의적인 개발을 좋아합니다. 💻
-- 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋
-
-
-**Languages and Tools:**  
-
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/nginx.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/azure.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
-<br>
-<a href="https://github.com/EazyNick">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl" />
-</a>
-<br>
-<br>
-<a href="https://github.com/EazyNick">
-  <img src="https://github-readme-stats.vercel.app/api?username=EazyNick&show_icons=true&theme=radical" />
-</a>
-
-## 🛠️ Projects(최근 6개의 프로젝트)
-✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
-<br>
-
-| Project   | Summary                                           | Role      | Stack                          | Period                |
-|-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
 | [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Full-Stack | Python | 2025.01 ~ 유지보수중중 |
 | [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 |
 | [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
