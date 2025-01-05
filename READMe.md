@@ -112,5 +112,6 @@
 | [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.09 |
 | [Unreal Engine](https://github.com/EazyNick/UE5_2DGame) | 2d 횡 스크롤 게임 개발 | Clinet | C++ | 2023.05 ~ 2023.07 |
 | [Unity Junior](https://github.com/EazyNick/junior-unity-game-) | Unity 공식 페이지 Junior 과정 이수 | Clinet | C# | 2023.02 ~ 2023.04 |
+| 식당 예약 및 자리 현황 App | 식당 자리를 예약하고 자리 현황을 실시간으로 확인 가능한 App 개발 | Front | Java | 2020.02 ~ 2020.12 |
 
 ⭐️ From [EazyNick]([https://github.com/Neel2904)(https://github.com/EazyNick)
