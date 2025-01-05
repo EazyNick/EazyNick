@@ -85,6 +85,7 @@
 </a>
 
 ## 🛠️ Projects(추천 프로젝트)
+✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
 <br>
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
@@ -96,7 +97,6 @@
 | [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.10 |
 
 ## 🛠️ Projects(모든 프로젝트)
-✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
 <br>
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
@@ -107,7 +107,10 @@
 | [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04 ~ 2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
-| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11 ~ 2024.01 |
-| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.10 |
+| [Window 자동화 Tool](https://github.com/EazyNick/AutoTool_EXE) | Window 매크로 프로그램 | Front | PyQt, Json | 2024.01 ~ 2024.02 |
+| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.10 ~ 2023.12 |
+| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.09 |
+| [Unreal Engine](https://github.com/EazyNick/UE5_2DGame) | 2d 횡 스크롤 게임 개발 | Clinet | C++ | 2023.05 ~ 2023.07 |
+| [Unity Junior](https://github.com/EazyNick/junior-unity-game-) | Unity 공식 페이지 Junior 과정 이수 | Clinet | C# | 2023.02 ~ 2023.04 |
 
 ⭐️ From [EazyNick]([https://github.com/Neel2904)(https://github.com/EazyNick)
