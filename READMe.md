@@ -101,7 +101,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 ~ 2025.02 |
+| [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
 | [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Full-Stack | Python | 2025.01 ~ 유지보수중 |
 | [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 |
 | [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
