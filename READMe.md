@@ -90,11 +90,11 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05 ~ 2024.11 |
-| [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04 ~ 2024.05 |
-| [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
-| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11 ~ 2024.01 |
-| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.10 |
+| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05~2024.11 |
+| [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04~2024.05 |
+| [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02~2024.04 |
+| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11~2024.01 |
+| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08~2023.10 |
 
 ## 🛠️ Projects(모든 프로젝트)
 <br>
@@ -102,16 +102,16 @@
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
-| [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Full-Stack | Python | 2025.01 ~ 유지보수중 |
+| [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Full-Stack | Python | 2025.01~유지보수중 |
 | [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 |
-| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05~ 2024.11 |
-| [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04 ~ 2024.05 |
-| [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02 ~ 2024.04 |
+| [총장배소프트웨어대회 은상](https://github.com/EazyNick/2024_RLTrading_A3C) | 강화학습(RL) 주식 자동매매 시스템 | Full-stack | Python, Flutter, AWS | 2024.05~2024.11 |
+| [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04~2024.05 |
+| [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02~2024.04 |
 | [Window 자동화 Tool](https://github.com/EazyNick/AutoTool_EXE) | Window 매크로 프로그램 | Front | PyQt, Json | 2024.01 ~ 2024.02 |
-| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.10 ~ 2023.12 |
-| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08 ~ 2023.09 |
-| [Unreal Engine](https://github.com/EazyNick/UE5_2DGame) | 2d 횡 스크롤 게임 개발 | Clinet | C++ | 2023.05 ~ 2023.07 |
-| [Unity Junior](https://github.com/EazyNick/junior-unity-game-) | Unity 공식 페이지 Junior 과정 이수 | Clinet | C# | 2023.02 ~ 2023.04 |
+| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.10~2023.12 |
+| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08~2023.09 |
+| [Unreal Engine](https://github.com/EazyNick/UE5_2DGame) | 2d 횡 스크롤 게임 개발 | Clinet | C++ | 2023.05~2023.07 |
+| [Unity Junior](https://github.com/EazyNick/junior-unity-game-) | Unity 공식 페이지 Junior 과정 이수 | Clinet | C# | 2023.02~2023.04 |
 | 포켓다이닝 | 식당 자리를 예약하고 자리 현황을 실시간으로 확인 가능한 App 개발 | Front | Java | 2020.02 ~ 2020.12 |
 
 ⭐️ From [EazyNick]([https://github.com/Neel2904)(https://github.com/EazyNick)
