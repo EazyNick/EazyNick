@@ -105,6 +105,7 @@
 | [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Full-Stack | Python | 2024.12~MNT |
 | [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 |
 | [강화학습(RL) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 총장배소프트웨어대회 은상 | Full-stack | Python, Flutter, AWS | 2024.05~2024.11 |
+| [Chat GPT API 명세서](https://github.com/EazyNick/ChatGPT-API) | Chat GPT API 명세서  | API | Python | 2024.05 |
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04~2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.03~2024.04 |
 | [스마트폰 AutoMacro](https://github.com/EazyNick/SmartPhoneMacroApp) | 갤럭시, 사용자가 클릭한 동작을 저장하고, 재생 | Front | Kotlin | 2024.02 |
