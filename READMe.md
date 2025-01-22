@@ -23,7 +23,6 @@
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 AI 유튜버 프로젝트 참여중(TTS, LLM, WAS) 25.01 ~ <br>
     <span style="color: #1E90FF; font-size: 16px;">📚 openai rl 학습중 <br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 Window 자동화 QA 도구 개발 예정 <br>
 </p>
 
 <br>
