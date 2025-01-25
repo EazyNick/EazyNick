@@ -102,7 +102,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
-| [AI 버튜버](https://github.com/EazyNick/XLwings) | LLM, TTS, Vitual Sound, VTube | - | Python | 2025.01~2025.02 |
+| [AI 버튜버](https://github.com/EazyNick/XLwings) | LLM, TTS, Vitual Sound, VTube, WAS | - | Python | 2025.01~2025.02 |
 | [엑셀 자동화 모듈](https://github.com/EazyNick/XLwings) | 엑셀에서 반복적인 작업을 처리하는 모듈 | - | Python | 2025.01 |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
 | [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Client | Python | 2024.12~2025.01 |
