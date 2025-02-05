@@ -8,7 +8,7 @@
   <img align="left" alt="EazyNick's Github" width="22px" src="https://img.icons8.com/?size=64&id=52539&format=png" />
 </a>
 <a href="https://kimsungjun9987.tistory.com/">
-  <img align="left" alt="EazyNick's Blog" width="22px" src="https://img.icons8.com/?size=48&id=18911&format=png" />
+  <img align="left" alt="EazyNick's Blog" width="22px" src="https://img.icons8.com/?size=100&id=GsMdC9NCKCAD&format=png&color=000000" />
 </a>
 
 <br>
