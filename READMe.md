@@ -102,6 +102,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
+| [영상 자막 생성](https://github.com/EazyNick/Speech2Sub) | 영상의 음성을 텍스트로 변환 후, 자막을 생성하여 영상에 덮어씌움 | - | Python | 2025.02 |
 | [AI Vtuber](https://github.com/EazyNick/AIVtuber) | LLM, TTS, Vitual Sound, VTube, WAS, ... | - | Python | 2025.01~2025.02 |
 | [엑셀 자동화 모듈](https://github.com/EazyNick/XLwings) | 엑셀에서 반복적인 작업을 처리하는 모듈 | - | Python | 2025.01 |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
