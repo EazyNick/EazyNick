@@ -21,7 +21,7 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교내/외 활동 관련해서는 Linkedin(작성중...미완성) 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL 알고리즘 활용한 시스템 트레이딩 모델 개발중(비공개, 라이센스 有) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL 알고리즘 활용한 시스템 트레이딩 모델 개발 및 유지보수(라이센스 有) <br>
   <span style="color: #1E90FF; font-size: 16px;">📚 정보처리기사 실기 공부중 <br>
 </p>
 
