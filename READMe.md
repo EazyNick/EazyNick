@@ -39,7 +39,7 @@
 **Kotlin**: Frontend App Development <br>
 **Dart**: Flutter <br>
 **Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
-**JavaScript**: TypeScript, React Native
+**JavaScript**: React Native, TypeScript
 **Others**: HTML, CSS <br>
 **프로젝트 관리**: JIRA, Git <br>
 **디자인 및 프로토타이핑**: Figma, Canva
@@ -72,6 +72,9 @@
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
 <br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
+<br>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
 <br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
