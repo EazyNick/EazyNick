@@ -39,7 +39,8 @@
 **Kotlin**: Frontend App Development <br>
 **Dart**: Flutter <br>
 **Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
-**Others**: HTML, CSS, JavaScript <br>
+**JavaScript**: TypeScript, React Native
+**Others**: HTML, CSS <br>
 **프로젝트 관리**: JIRA, Git <br>
 **디자인 및 프로토타이핑**: Figma, Canva
 
