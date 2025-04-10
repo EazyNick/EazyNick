@@ -95,7 +95,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
-| [AI Vtuber](https://github.com/EazyNick/AIVtuber) | LLM, TTS, Vitual Sound, VTube, WAS, ... | - | Python | 2025.01~2025.02 |
+| AstraQuant | 주가 예측 시스템, 한국투자증권 대학생 모의투자대회 참가중 | - | Python | 2025.02~ |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
 | [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02~2024.04 |
