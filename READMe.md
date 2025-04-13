@@ -23,7 +23,6 @@
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL 알고리즘 활용한 시스템 트레이딩 모델 개발 및 유지보수(라이센스 有) <br>
   <span style="color: #1E90FF; font-size: 16px;">📚 25년 한이음 프로젝트 진행중 <br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 공부중... <br>
 </p>
 
 <br>
