@@ -37,7 +37,7 @@
 **Java**: Frontend App Development <br>
 **Kotlin**: Frontend App Development <br>
 **Dart**: Flutter <br>
-**Databases**: MySQL, Redis, MongoDB, DynamoDB <br>
+**Databases**: MySQL, MariaDB, SQLITE, Redis, MongoDB, DynamoDB <br>
 **JavaScript**: React Native, TypeScript
 **Others**: HTML, CSS <br>
 **프로젝트 관리**: JIRA, Git <br>
