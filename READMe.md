@@ -21,7 +21,7 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개발 외 정보는 Linkedin 페이지 참고 부탁드립니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
-  <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL 알고리즘 활용한 시스템 트레이딩 모델 개발 및 유지보수(라이센스 有) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL 알고리즘 활용한 시스템 트레이딩 모델 개발 <br>
   <span style="color: #1E90FF; font-size: 16px;">📚 25년 한이음 프로젝트 진행중(영어 AI 동화 앱 제작, 쿠버네티스 라이브러리 제작) <br>
 </p>
 
@@ -96,7 +96,7 @@
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
 | [AstraQuant](https://github.com/EazyNick/AstraQuant) | 주가 예측 시스템, 한국투자증권 대학생 모의투자대회 참가중 | - | Python | 2025.02~ |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
-| [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
+| [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 2024 한이음 ICT 프로젝트, 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02~2024.04 |
 | [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11~2024.01 |
 | [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08~2023.10 |
@@ -106,14 +106,14 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
-| [AstraQuant](https://github.com/EazyNick/AstraQuant) | 주가 예측 시스템, 한국투자증권 대학생 모의투자대회 참가중~ | - | Python | 2025.02~ |
+| [AstraQuant](https://github.com/EazyNick/AstraQuant) | 주가 예측 시스템, 한국투자증권 대학생 모의투자대회 참가중 | - | Python | 2025.02~ |
 | [영상 자막 생성](https://github.com/EazyNick/Speech2Sub) | 영상의 음성을 텍스트로 변환 후, 자막을 생성하여 영상에 덮어씌움 | - | Python | 2025.02 |
 | [AI Vtuber](https://github.com/EazyNick/AIVtuber) | LLM, TTS, Vitual Sound, VTube, WAS, ... | - | Python | 2025.01~2025.02 |
 | [엑셀 자동화 모듈](https://github.com/EazyNick/XLwings) | 엑셀에서 반복적인 작업을 처리하는 모듈 | - | Python | 2025.01 |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 제작 | AI | Python | 2025.01 |
 | [승리의 여신:니케 자동화 프로그램](https://github.com/EazyNick/NikkePCAuto) | 승리의 여신:니케 자동화 프로그램 | Client | Python | 2024.12~2025.01 |
 | [Django 강의자료 제작](https://github.com/EazyNick/Django-API-Server) | Django의 핵심 기능을 담은 강의자료 | - | Python | 2024.12 |
-| [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
+| [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 2024 한이음 ICT 프로젝트, 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
 | [Chat GPT API 명세서](https://github.com/EazyNick/ChatGPT-API) | Chat GPT API 명세서  | API | Python | 2024.05 |
 | [한국투자증권 REST API](https://github.com/EazyNick/Stock_RestAPI) | 한국투자증권 REST API 사용서  | API | Python | 2024.04~2024.05 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.03~2024.04 |
