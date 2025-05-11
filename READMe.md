@@ -55,7 +55,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pytorch.png?raw=true"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
 <br>
