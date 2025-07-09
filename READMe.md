@@ -23,6 +23,7 @@
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 Transformer + RL(PPO) 알고리즘 활용한 시스템 트레이딩 모델 개발 <br>
   <span style="color: #1E90FF; font-size: 16px;">📚 25년 한이음 프로젝트 진행중(영어 AI 동화 앱 제작, 쿠버네티스 라이브러리 제작) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 25/07/07 ~ 25/07/10 ROK Reserve Forces <br>
 </p>
 
 <br>
