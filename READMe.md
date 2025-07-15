@@ -106,8 +106,8 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
-| [영어 학습 AI 동화 앱 제작]() |  - | Front, AI | React Native  | 2025.02~ |
-| [쿠버네티스 라이브러리 제작](t) |  - | - |Python | 2025.02~ |
+| [영어 학습 AI 동화 앱 제작]() |  - | Front, AI | React Native  | 2025.02~2025.10 |
+| [쿠버네티스 라이브러리 제작](t) |  - | Full-Stack |Python | 2025.02~2025.10 |
 | [AstraQuant](https://github.com/EazyNick/AstraQuant) |  Transformer + PPO 기반 주가 예측 시스템 | - | Python | 2025.02~ |
 | [영상 자막 생성](https://github.com/EazyNick/Speech2Sub) | 영상의 음성을 텍스트로 변환 후, 자막을 생성하여 영상에 덮어씌움 | - | Python | 2025.02 |
 | [AI Vtuber](https://github.com/EazyNick/AIVtuber) | LLM, TTS, Vitual Sound, VTube, WAS, ... | - | Python | 2025.01~2025.02 |
