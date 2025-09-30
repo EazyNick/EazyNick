@@ -32,7 +32,7 @@
 **C#**: Unity <br>
 **C++**: Unreal Engine 5, TCP Server (Boost), MFC (UI) <br>
 **Databases**: MySQL, MariaDB, SQLITE, Redis, MongoDB, DynamoDB <br>
-**JavaScript**: React Native, TypeScript
+**JavaScript**: React Native, TypeScript <br>
 **Others**: HTML, CSS <br>
 **프로젝트 관리**: JIRA, Git <br>
 
