@@ -20,6 +20,7 @@
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 25년 한이음 프로젝트 진행중(영어 AI 동화 앱 제작, 쿠버네티스 라이브러리 제작) <br>
+  <span style="color: #1E90FF; font-size: 16px;">📚 S/W 자동화 프로그램 개발중(25.10~) <br>
 </p>
 
 <br>
