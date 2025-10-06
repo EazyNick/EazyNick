@@ -16,7 +16,7 @@
 
 <p>
   <img src="https://github.com/EazyNick/EazyNick/blob/main/1.gif?raw=true" align="right" height="210" />
-  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 개발 QA 재직중인 김성준 연구원입니다.</span><br>
+  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 자동화 개발 QA 재직중인 김성준 연구원입니다.</span><br>
   <span style="color: #FF6347; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다양한 S/W개발에 많은 관심을 두고 있습니다.</span><br>
   <span style="color: #32CD32; font-size: 16px;">💻 자동화 Tool, AI, 서버 개발에 관심이 있습니다.</span><br>
   <span style="color: #1E90FF; font-size: 16px;">📚 25년 한이음 프로젝트 진행중(영어 AI 동화 앱 제작, 쿠버네티스 라이브러리 제작) <br>
