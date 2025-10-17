@@ -97,6 +97,7 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |---------|---------------------------------------------------|-----------|--------------------------------|--------------------------|
+| [AutoScript](https://github.com/EazyNick/LostSword_AutoScript) | 자동화를 위한 FastAPI 서버와 웹 기반 UI 도구입니다. | - | FastAPI, JavaScript | 2025.10 ~ |
 | [영어 학습 AI 동화 앱 제작](https://github.com/EazyNick/storycraft-frontend) | 어린이를 위한 창의적인 영어 동화 앱 | Front, AI(Prompt Engineering) | React Native, Expo | 2025.04~2025.10 |
 | [쿠버네티스 라이브러리 제작](https://github.com/EazyNick/Kubernetes_Docker_Server) | VM Ware, AWS EC2, 미들웨어, Docker, K8s를 활용해 모니터링 시스템 및 대시보드 구축 | Full-Stack | Python | 2025.04~2025.10 |
 | [AstraQuant](https://github.com/EazyNick/AstraQuant) |  Transformer + PPO 기반 주가 예측 시스템 | AI | Python | 2025.02~2025.07 |
