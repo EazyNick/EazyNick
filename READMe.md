@@ -85,12 +85,12 @@
 
 | Project   | Summary                                           | Role      | Stack                          | Period                |
 |-----------|---------------------------------------------------|-----------|--------------------------------|------------------------|
+| [영어 학습 AI 동화 앱 제작](https://github.com/EazyNick/storycraft-frontend) | 어린이를 위한 창의적인 영어 동화 앱 | Front, AI(Prompt Engineering) | React Native, Expo | 2025.04~2025.10 |
+| [쿠버네티스 라이브러리 제작](https://github.com/EazyNick/Kubernetes_Docker_Server) | VM Ware, AWS EC2, 미들웨어, Docker, K8s를 활용해 모니터링 시스템 및 대시보드 구축 | Full-Stack | Python | 2025.04~2025.10 |
 | [AstraQuant](https://github.com/EazyNick/AstraQuant) | Transformer + PPO 기반 주가 예측 시스템 | AI | Python | 2025.02~2025.07 |
 | [TTS 모델 파인튜닝](https://github.com/EazyNick/TTS) | XTTS V2를 활용한 Korean 학습 코드 공유 | AI | Python | 2025.01 |
 | [강화학습(A3C) 주식 자동매매 시스템](https://github.com/EazyNick/2024_RLTrading_A3C) | 2024 한이음 ICT 프로젝트, 총장배소프트웨어대회 은상 | Full-stack | Django, Flutter, AWS | 2024.05~2024.11 |
 | [BlockCoding_UI](https://github.com/EazyNick/BlockCoding_UI) | 블록 UI기반 PC 매크로 프로그램 | Full-Stack | PyQt | 2024.02~2024.04 |
-| [C++ 비동기식 서버 구축](https://github.com/EazyNick/HalfProject_Server) | MMORPG에서 사용할 비동기식 서버  | Backend  | C++, Boost | 2023.11~2024.01 |
-| [Tstory-API](https://github.com/EazyNick/Tstory-API_Final) | Tstory 블로그 글, 댓글 작성 자동화 | Full-Stack | Python | 2023.08~2023.10 |
 
 ## 🛠️ Projects(모든 프로젝트)
 <br>
