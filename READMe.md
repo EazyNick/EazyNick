@@ -12,7 +12,6 @@
 </a>
 
 <br>
-<br>
 
 <p>
   <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 자동화 개발 QA 재직중인 김성준 연구원입니다.</span><br>
