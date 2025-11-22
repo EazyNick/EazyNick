@@ -1,9 +1,5 @@
 
 # <a href="https://www.linkedin.com/in/sung-jun-kim-962956304/">EazyNick</a> : Automation Expert ⚙️ | <br> Level 😇:
-
-<a href="https://www.linkedin.com/in/sung-jun-kim-962956304">
-  <img align="left" alt="EazyNick's Linkdein" width="22px" src="https://img.icons8.com/?size=48&id=13930&format=png" />
-</a>
 <a href="https://github.com/EazyNick">
   <img align="left" alt="EazyNick's Github" width="22px" src="https://img.icons8.com/?size=64&id=52539&format=png" />
 </a>
