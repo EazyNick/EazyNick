@@ -58,10 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl" />
 </a>
 <br>
-<br>
-<a href="https://github.com/EazyNick">
-  <img src="https://github-readme-stats.vercel.app/api?username=EazyNick&show_icons=true&theme=radical" />
-</a>
 
 ## 🛠️ Projects(추천 프로젝트)
 ✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
