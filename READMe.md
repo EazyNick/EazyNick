@@ -48,9 +48,6 @@
 <br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
 <br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Kotlin.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/Flutter.png?raw=true"></code>
-<br>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/ReactNative.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/TypeScript.png?raw=true"></code>
 <br>
