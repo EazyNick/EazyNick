@@ -54,10 +54,6 @@
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
 <code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
 <br>
-<a href="https://github.com/EazyNick">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyNick&theme=radical&hide=glsl" />
-</a>
-<br>
 
 ## 🛠️ Projects(추천 프로젝트)
 ✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
