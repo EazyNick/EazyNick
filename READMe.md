@@ -24,36 +24,9 @@
 **Others**: HTML, CSS <br>
 **프로젝트 관리**: JIRA, Git <br>
 
-
-
 ## Talking about personal stuff ::
 - 최신 기술에 관심이 매우 많습니다! 😸😸
 - 읽기 좋은 코드를 좋아합니다. ⭐️
-
-
-**Languages and Tools:**  
-
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pytorch.png?raw=true"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openai%20gym.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/nginx.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/docker.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/django.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/aws%20ec2.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/azure.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/pyqt.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/openCV.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/c++boost.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/ReactNative.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/TypeScript.png?raw=true"></code>
-<br>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unity.png?raw=true"></code>
-<code><img height="50" src="https://github.com/EazyNick/EazyNick/blob/main/TechImg/unrealEngine.png?raw=true"></code>
-<br>
 
 ## 🛠️ Projects(추천 프로젝트)
 ✋ 관심있는 프로젝트에 참여하고 싶습니다. 연락주세요. ✋ <br>
