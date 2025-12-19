@@ -8,12 +8,6 @@
 </a>
 
 <br>
-<br>
-
-<p>
-  <span style="color: #6A5ACD; font-size: 18px;">👋 안녕하세요. 자동화 개발 QA 재직중인 김성준 연구원입니다.</span><br>
-  <span style="color: #32CD32; font-size: 16px;">💻 자동화 AI, Tool, 서버 개발에 관심이 있습니다.</span><br>
-</p>
   
 ## 🔥🔥Technologies :fire🔥🔥:
 **Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, LangChain, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn), FASTAPI <br>
