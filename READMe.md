@@ -15,12 +15,7 @@
 **C++**: Unreal Engine 5, TCP Server (Boost), MFC (UI) <br>
 **Databases**: MySQL, MariaDB, SQLITE, MongoDB, DynamoDB <br>
 **JavaScript**: React Native, TypeScript <br>
-**Others**: HTML, CSS <br>
-**프로젝트 관리**: JIRA, Git <br>
-
-## Talking about personal stuff ::
-- 최신 기술에 관심이 매우 많습니다! 😸😸
-- 읽기 좋은 코드를 좋아합니다. ⭐️
+**Others**: HTML, CSS, JIRA <br>
 
 ## 🛠️ Projects(추천 프로젝트)
 
