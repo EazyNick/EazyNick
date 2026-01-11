@@ -15,7 +15,6 @@
 **C++**: Unreal Engine 5, TCP Server (Boost), MFC (UI) <br>
 **Databases**: MySQL, MariaDB, SQLITE, MongoDB, DynamoDB <br>
 **JavaScript**: React Native, TypeScript <br>
-**Others**: HTML, CSS, JIRA <br>
 
 ## 🛠️ Projects(추천 프로젝트)
 
