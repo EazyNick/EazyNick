@@ -5,13 +5,7 @@
 </a>
 
 <br>
-  
-## 🔥🔥Technologies :fire🔥🔥:
-**Python**: PyQt, OpenCV, OCR, Data Processing, Web Scraping, Deep Learning, Reinforcement Learning, LangChain, Django on AWS EC2 (Docker-compose, Nginx, Gunicorn), FASTAPI <br>
-**C#**: Unity <br>
-**C++**: Unreal Engine 5, TCP Server (Boost), MFC (UI) <br>
-**Databases**: MariaDB, SQLITE, DynamoDB <br>
-**JavaScript**: React Native, TypeScript <br>
+
 
 ## 🛠️ Projects(추천 프로젝트)
 
